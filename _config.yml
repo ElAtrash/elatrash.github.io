@@ -1,0 +1,10 @@
+# GitHub Pages configuration
+
+# Use the default Jekyll theme
+theme: jekyll-theme-cayman
+
+# Or use the minimal theme for a more basic look
+# theme: jekyll-theme-minimal
+
+# You can also disable Jekyll if you're only serving static files
+# jekyll: false
